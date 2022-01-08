@@ -4,9 +4,9 @@
 
 ## Hi there, I'm Martin - aka [Barasingha][website] :deer:
 
-![Website](https://img.shields.io/website?down_color=critical&down_message=Offline&label=My%20Website&style=for-the-badge&up_color=success&up_message=Online&url=https%3A%2F%2Fbarassolutions.com)
-![GitHub User's stars](https://img.shields.io/github/stars/MaVdbussche?affiliations=OWNER&color=yellow&label=Github%20Stars&style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Homeworking-success?style=for-the-badge)
+[![Website](https://img.shields.io/website?down_color=critical&down_message=Offline&label=My%20Website&style=for-the-badge&up_color=success&up_message=Online&url=https%3A%2F%2Fbarassolutions.com)][website]
+[![GitHub User's stars](https://img.shields.io/github/stars/MaVdbussche?affiliations=OWNER&color=yellow&label=Github%20Stars&style=for-the-badge)][github]
+[![Status](https://img.shields.io/badge/Status-Homeworking-success?style=for-the-badge)]()
 
 ### I'm a tech enthusiast, Linux aficionado, and aspiring developer !
 
@@ -29,12 +29,12 @@
 
 ### Tools and Languages :
 
-[<img align="left" alt="Linux" height="26px" src="http://assets.stickpng.com/images/58480e82cef1014c0b5e4927.png" />][Linux]
+[<img align="left" alt="Linux" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />][Linux]
 [<img align="left" alt="Terminal" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][shell]
-[<img align="left" alt="Git" height="26px" src="http://assets.stickpng.com/images/5847f981cef1014c0b5e48be.png" />][git]
+[<img align="left" alt="Git" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />][git]
 [<img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="IntelliJ IDEA" height="26px" src="http://assets.stickpng.com/images/58480910cef1014c0b5e48f7.png" />][intellij]
-[<img align="left" alt="Java" height="26px" src="http://assets.stickpng.com/images/58480979cef1014c0b5e4901.png" />][Java]
+[<img align="left" alt="IntelliJ IDEA" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />][intellij]
+[<img align="left" alt="Java" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Javalogo.png" />][Java]
 [<img align="left" alt="LaTeX" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/25/LaTeX_logo.png" />][LaTeX]
 [<img align="left" alt="Docker" height="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />][Docker]
 [<img align="left" alt="WebGL" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/WebGL_Logo.svg/2560px-WebGL_Logo.svg.png" />][WebGL]
@@ -77,5 +77,5 @@ Last Updated: Saturday, January 8th, 2022, 10:05:04 PM
 [Docker]: https://www.docker.com/
 [WebGL]: https://www.khronos.org/webgl/
 [git]: https://git-scm.com/
-[github]: https://github.com
+[github]: https://github.com/MaVdbussche
 [shell]: https://en.wikipedia.org/wiki/Unix_shell
