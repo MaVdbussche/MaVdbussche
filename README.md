@@ -2,13 +2,13 @@
 **MaVdbussche/MaVdbussche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi there, I'm Martin - aka [Barasingha][website] :deer:
+## Hi there, I'm Martin - aka [Barasingha][website] :deer:
 
 ![Website](https://img.shields.io/website?down_color=critical&down_message=Offline&label=My%20Website&style=for-the-badge&up_color=success&up_message=Online&url=https%3A%2F%2Fbarassolutions.com)
 ![GitHub User's stars](https://img.shields.io/github/stars/MaVdbussche?affiliations=OWNER&color=yellow&label=Github%20Stars&style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Homeworking-success?style=for-the-badge)
 
-## I'm a tech enthusiast, Linux aficionado, and aspiring developer !
+### I'm a tech enthusiast, Linux aficionado, and aspiring developer !
 
 - 📖 I’m currently learning about Azure and cloud technologies ☁
 - 🎯 2021 Goals :
@@ -44,9 +44,20 @@
 
 ---
 
-[<img align="left" alt="MaVdbussche's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MaVdbussche&hide=contribs&count_private=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
-[<img align="right" alt="MaVdbussche's Languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaVdbussche&layout=compact" />]()
+### My recent GitHub activity :
 
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" alt="MaVdbussche's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MaVdbussche&hide=contribs&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" alt="MaVdbussche's Languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaVdbussche" />
+</a>
 
 [website]: https://barassolutions.com
 [twitter]: https://twitter.com/Barasingha_
