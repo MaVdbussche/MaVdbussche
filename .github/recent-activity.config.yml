@@ -1,0 +1,4 @@
+settings:
+  date:
+    timezone: "Europe/Brussels"
+  max_lines: 3
