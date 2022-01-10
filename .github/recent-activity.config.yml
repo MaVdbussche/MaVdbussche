@@ -1,4 +1,5 @@
 settings:
+  commit_msg: ":robot: Update README with the recent activity"
   date:
     timezone: "Europe/Brussels"
   max_lines: 3
