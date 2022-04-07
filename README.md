@@ -11,7 +11,7 @@
 ### I'm a tech enthusiast, Linux aficionado, and aspiring developer !
 
 - 📖 I’m currently learning about Azure and cloud technologies ☁
-- 🎯 2021 Goals :
+- 🎯 2022 Goals :
   - Make more GitHub contributions 💻
   - Run a half-marathon 🏃‍♂
   - Improve my Dutch 🗨
@@ -34,9 +34,9 @@
 [<img align="left" alt="Git" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />][git]
 [<img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="IntelliJ IDEA" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />][intellij]
-[<img align="left" alt="Java" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Javalogo.png" />][Java]
+[<img align="left" alt="Java" height="26px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/129px-Java_Logo.svg.png" />][Java]
 [<img align="left" alt="LaTeX" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/25/LaTeX_logo.png" />][LaTeX]
-[<img align="left" alt="Docker" height="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />][Docker]
+[<img align="left" alt="Docker" height="26px" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" />][Docker]
 [<img align="left" alt="WebGL" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/WebGL_Logo.svg/2560px-WebGL_Logo.svg.png" />][WebGL]
 
 <br />
