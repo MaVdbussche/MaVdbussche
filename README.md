@@ -12,10 +12,10 @@
 
 - 📖 I’m currently learning about Azure and cloud technologies ☁
 - 🎯 2022 Goals :
-  - Make more GitHub contributions 💻
-  - Run a half-marathon 🏃‍♂
-  - Improve my Dutch 🗨
-- ⚡ Fun fact: I love to play guitar / piano and watching movies
+  - Make more GitHub contributions 💻 => 🕔
+  - Run a half-marathon 🏃‍♂ => ✅
+  - Improve my Dutch 🗨 => 🕔
+- ⚡ About me : I love to play guitar / piano and tinkering with my homelab
 
 ### Connect with me :
 
