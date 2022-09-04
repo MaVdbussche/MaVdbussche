@@ -47,15 +47,15 @@
 ### My recent GitHub activity :
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [MaVdbussche/Applied-Energistics-2](https://github.com/MaVdbussche/Applied-Energistics-2) from [AppliedEnergistics/Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2)
-2. 
-3. 
+1. ❗️ Opened issue [#3](https://github.com/MaVdbussche/Tuxcraft-Installer/issues/3) in [MaVdbussche/Tuxcraft-Installer](https://github.com/MaVdbussche/Tuxcraft-Installer)
+2. 🎉 Merged PR [#2](https://github.com/MaVdbussche/Tuxcraft-Installer/pull/2) in [MaVdbussche/Tuxcraft-Installer](https://github.com/MaVdbussche/Tuxcraft-Installer)
+3. 💪 Opened PR [#2](https://github.com/MaVdbussche/Tuxcraft-Installer/pull/2) in [MaVdbussche/Tuxcraft-Installer](https://github.com/MaVdbussche/Tuxcraft-Installer)
 4. 
 5. 
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 3rd, 2022, 4:04:41 AM
+Last Updated: Sunday, September 4th, 2022, 4:00:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
