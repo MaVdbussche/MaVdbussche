@@ -10,18 +10,19 @@
 
 ### I'm a tech enthusiast, Linux aficionado, and aspiring developer !
 
-- 📖 I’m currently learning about Azure and cloud technologies ☁
-- 🎯 2022 Goals :
-  - Make more GitHub contributions 💻 => 🕔
-  - Run a half-marathon 🏃‍♂ => ✅
-  - Improve my Dutch 🗨 => 🕔
 - ⚡ About me : I love to play guitar / piano and tinkering with my homelab
+- 🎯 2022 Goals :
+  - Make more GitHub contributions 💻 => ❌
+  - Run a half-marathon 🏃‍♂ => ✅
+  - Improve my Dutch 🗨 => ✅
+- 🎯 2023 Goals :
+    - Make more GitHub contributions 💻 => 🕔
+    - Learn about Azure and cloud technologies => 🕔
+    - Take my Homelab / home automation to the next level => 🕔
 
 ### Connect with me :
 
 [<img align="left" alt="barassolutions.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="Barasingha_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [<img align="left" alt="Martin Vandenbussche | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
