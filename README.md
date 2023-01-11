@@ -48,15 +48,15 @@
 ### My recent GitHub activity :
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1585](https://github.com/ghostfolio/ghostfolio/pull/1585) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-2. 💪 Opened PR [#1583](https://github.com/ghostfolio/ghostfolio/pull/1583) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-3. 🔱 Forked [MaVdbussche/ghostfolio](https://github.com/MaVdbussche/ghostfolio) from [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+1. 👍 Approved [#1589](https://github.com/ghostfolio/ghostfolio/pull/1589#pullrequestreview-1242892468) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+2. ❗️ Opened issue [#1587](https://github.com/ghostfolio/ghostfolio/issues/1587) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+3. 💪 Opened PR [#1585](https://github.com/ghostfolio/ghostfolio/pull/1585) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
 4. 
 5. 
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 10th, 2023, 2:20:20 AM
+Last Updated: Wednesday, January 11th, 2023, 2:18:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
