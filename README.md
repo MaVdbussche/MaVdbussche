@@ -48,7 +48,7 @@
 ### My recent GitHub activity :
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1605](https://github.com/ghostfolio/ghostfolio/pull/1605) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+1. ❗️ Opened issue [#12](https://github.com/BrianCArnold/jellyfin-plugin-intros/issues/12) in [BrianCArnold/jellyfin-plugin-intros](https://github.com/BrianCArnold/jellyfin-plugin-intros)
 2. ⭐ Starred [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
 3. ❗️ Opened issue [#1602](https://github.com/ghostfolio/ghostfolio/issues/1602) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
 4. 
@@ -56,7 +56,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 22nd, 2023, 3:17:02 AM
+Last Updated: Tuesday, May 23rd, 2023, 3:13:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
