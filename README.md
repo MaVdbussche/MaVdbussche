@@ -48,15 +48,15 @@
 ### My recent GitHub activity :
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [IceWreck/tagpatch](https://github.com/IceWreck/tagpatch)
-2. 💪 Opened PR [#2057](https://github.com/ghostfolio/ghostfolio/pull/2057) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-3. ❗️ Opened issue [#12](https://github.com/BrianCArnold/jellyfin-plugin-intros/issues/12) in [BrianCArnold/jellyfin-plugin-intros](https://github.com/BrianCArnold/jellyfin-plugin-intros)
+1. ❗️ Opened issue [#161](https://github.com/karlomikus/bar-assistant/issues/161) in [karlomikus/bar-assistant](https://github.com/karlomikus/bar-assistant)
+2. ⭐ Starred [IceWreck/tagpatch](https://github.com/IceWreck/tagpatch)
+3. 💪 Opened PR [#2057](https://github.com/ghostfolio/ghostfolio/pull/2057) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
 4. 
 5. 
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 23rd, 2023, 2:59:20 AM
+Last Updated: Thursday, August 24th, 2023, 2:59:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
