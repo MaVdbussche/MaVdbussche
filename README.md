@@ -48,15 +48,15 @@
 ### My recent GitHub activity :
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#161](https://github.com/karlomikus/bar-assistant/issues/161) in [karlomikus/bar-assistant](https://github.com/karlomikus/bar-assistant)
-2. ⭐ Starred [IceWreck/tagpatch](https://github.com/IceWreck/tagpatch)
-3. 💪 Opened PR [#2057](https://github.com/ghostfolio/ghostfolio/pull/2057) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+1. 🔱 Forked [MaVdbussche/jellyfin.org](https://github.com/MaVdbussche/jellyfin.org) from [jellyfin/jellyfin.org](https://github.com/jellyfin/jellyfin.org)
+2. 💪 Opened PR [#10870](https://github.com/jellyfin/jellyfin/pull/10870) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+3. ❗️ Opened issue [#10869](https://github.com/jellyfin/jellyfin/issues/10869) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
 4. 
 5. 
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 15th, 2024, 2:09:11 AM
+Last Updated: Tuesday, January 16th, 2024, 2:06:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
