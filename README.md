@@ -48,15 +48,15 @@
 ### My recent GitHub activity :
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [MaVdbussche/jellyfin.org](https://github.com/MaVdbussche/jellyfin.org) from [jellyfin/jellyfin.org](https://github.com/jellyfin/jellyfin.org)
-2. 💪 Opened PR [#10870](https://github.com/jellyfin/jellyfin/pull/10870) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+1. ❗️ Opened issue [#6](https://github.com/MaVdbussche/gluetun-helper/issues/6) in [MaVdbussche/gluetun-helper](https://github.com/MaVdbussche/gluetun-helper)
+2. 🎉 Merged PR [#2](https://github.com/MaVdbussche/gluetun-helper/pull/2) in [MaVdbussche/gluetun-helper](https://github.com/MaVdbussche/gluetun-helper)
 3. ❗️ Opened issue [#10869](https://github.com/jellyfin/jellyfin/issues/10869) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
 4. 
 5. 
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 17th, 2024, 3:07:26 AM
+Last Updated: Saturday, May 18th, 2024, 3:05:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
