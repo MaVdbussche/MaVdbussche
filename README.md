@@ -48,15 +48,15 @@
 ### My recent GitHub activity :
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#6](https://github.com/MaVdbussche/gluetun-helper/issues/6) in [MaVdbussche/gluetun-helper](https://github.com/MaVdbussche/gluetun-helper)
-2. 🎉 Merged PR [#2](https://github.com/MaVdbussche/gluetun-helper/pull/2) in [MaVdbussche/gluetun-helper](https://github.com/MaVdbussche/gluetun-helper)
-3. ❗️ Opened issue [#10869](https://github.com/jellyfin/jellyfin/issues/10869) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+1. ✔️ Closed issue [#9](https://github.com/MaVdbussche/gluetun-helper/issues/9) in [MaVdbussche/gluetun-helper](https://github.com/MaVdbussche/gluetun-helper)
+2. ✔️ Closed issue [#3](https://github.com/MaVdbussche/gluetun-helper/issues/3) in [MaVdbussche/gluetun-helper](https://github.com/MaVdbussche/gluetun-helper)
+3. 🎉 Merged PR [#10](https://github.com/MaVdbussche/gluetun-helper/pull/10) in [MaVdbussche/gluetun-helper](https://github.com/MaVdbussche/gluetun-helper)
 4. 
 5. 
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 19th, 2024, 3:11:28 AM
+Last Updated: Monday, May 20th, 2024, 3:07:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
