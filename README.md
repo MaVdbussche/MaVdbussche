@@ -48,15 +48,15 @@
 ### My recent GitHub activity :
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#24](https://github.com/cloud-py-api/docker-socket-proxy/issues/24) in [cloud-py-api/docker-socket-proxy](https://github.com/cloud-py-api/docker-socket-proxy)
-2. ✔️ Closed issue [#9](https://github.com/MaVdbussche/gluetun-helper/issues/9) in [MaVdbussche/gluetun-helper](https://github.com/MaVdbussche/gluetun-helper)
-3. ✔️ Closed issue [#3](https://github.com/MaVdbussche/gluetun-helper/issues/3) in [MaVdbussche/gluetun-helper](https://github.com/MaVdbussche/gluetun-helper)
+1. 💪 Opened PR [#12](https://github.com/MaVdbussche/gluetun-helper/pull/12) in [MaVdbussche/gluetun-helper](https://github.com/MaVdbussche/gluetun-helper)
+2. ❗️ Opened issue [#24](https://github.com/cloud-py-api/docker-socket-proxy/issues/24) in [cloud-py-api/docker-socket-proxy](https://github.com/cloud-py-api/docker-socket-proxy)
+3. ✔️ Closed issue [#9](https://github.com/MaVdbussche/gluetun-helper/issues/9) in [MaVdbussche/gluetun-helper](https://github.com/MaVdbussche/gluetun-helper)
 4. 
 5. 
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 13th, 2024, 3:15:20 AM
+Last Updated: Wednesday, August 14th, 2024, 3:14:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
