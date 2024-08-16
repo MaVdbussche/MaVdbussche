@@ -48,15 +48,15 @@
 ### My recent GitHub activity :
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#12](https://github.com/MaVdbussche/gluetun-helper/pull/12) in [MaVdbussche/gluetun-helper](https://github.com/MaVdbussche/gluetun-helper)
-2. 💪 Opened PR [#13](https://github.com/MaVdbussche/gluetun-helper/pull/13) in [MaVdbussche/gluetun-helper](https://github.com/MaVdbussche/gluetun-helper)
-3. 💪 Opened PR [#12](https://github.com/MaVdbussche/gluetun-helper/pull/12) in [MaVdbussche/gluetun-helper](https://github.com/MaVdbussche/gluetun-helper)
+1. 💪 Opened PR [#90](https://github.com/qdm12/gluetun-wiki/pull/90) in [qdm12/gluetun-wiki](https://github.com/qdm12/gluetun-wiki)
+2. 🔱 Forked [MaVdbussche/gluetun-wiki](https://github.com/MaVdbussche/gluetun-wiki) from [qdm12/gluetun-wiki](https://github.com/qdm12/gluetun-wiki)
+3. ❗️ Opened issue [#15](https://github.com/MaVdbussche/gluetun-helper/issues/15) in [MaVdbussche/gluetun-helper](https://github.com/MaVdbussche/gluetun-helper)
 4. 
 5. 
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 15th, 2024, 3:10:32 AM
+Last Updated: Friday, August 16th, 2024, 3:13:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
