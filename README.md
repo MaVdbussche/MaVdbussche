@@ -48,7 +48,7 @@
 ### My recent GitHub activity :
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#25](https://github.com/MaVdbussche/gluetun-helper/issues/25) in [MaVdbussche/gluetun-helper](https://github.com/MaVdbussche/gluetun-helper)
+1. ❗️ Opened issue [#26](https://github.com/MaVdbussche/gluetun-helper/issues/26) in [MaVdbussche/gluetun-helper](https://github.com/MaVdbussche/gluetun-helper)
 2. ✌️ Released [v1.1.0](https://github.com/MaVdbussche/gluetun-helper/releases/tag/v1.1.0) in [MaVdbussche/gluetun-helper](https://github.com/MaVdbussche/gluetun-helper)
 3. ✔️ Closed issue [#6](https://github.com/MaVdbussche/gluetun-helper/issues/6) in [MaVdbussche/gluetun-helper](https://github.com/MaVdbussche/gluetun-helper)
 4. 
@@ -56,7 +56,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 28th, 2024, 2:20:24 AM
+Last Updated: Sunday, December 29th, 2024, 2:35:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
