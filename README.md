@@ -48,15 +48,15 @@
 ### My recent GitHub activity :
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#26](https://github.com/MaVdbussche/gluetun-helper/issues/26) in [MaVdbussche/gluetun-helper](https://github.com/MaVdbussche/gluetun-helper)
-2. ✌️ Released [v1.1.0](https://github.com/MaVdbussche/gluetun-helper/releases/tag/v1.1.0) in [MaVdbussche/gluetun-helper](https://github.com/MaVdbussche/gluetun-helper)
+1. 💪 Opened PR [#27](https://github.com/MaVdbussche/gluetun-helper/pull/27) in [MaVdbussche/gluetun-helper](https://github.com/MaVdbussche/gluetun-helper)
+2. ❗️ Opened issue [#26](https://github.com/MaVdbussche/gluetun-helper/issues/26) in [MaVdbussche/gluetun-helper](https://github.com/MaVdbussche/gluetun-helper)
 3. ✔️ Closed issue [#6](https://github.com/MaVdbussche/gluetun-helper/issues/6) in [MaVdbussche/gluetun-helper](https://github.com/MaVdbussche/gluetun-helper)
 4. 
 5. 
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 26th, 2025, 2:22:52 AM
+Last Updated: Monday, January 27th, 2025, 2:21:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
